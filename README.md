@@ -24,6 +24,9 @@ TaskFlow is a modern, full-stack SaaS productivity dashboard designed to help us
 - **JWT Authentication**: Secure stateless authentication.
 - **SQLite**: Default database (easily switchable to PostgreSQL).
 
+<img width="2240" height="1400" alt="image" src="https://github.com/user-attachments/assets/83f51249-41b0-490c-8b96-811882a71e8d" />
+
+
 ## Project Structure
 
 
