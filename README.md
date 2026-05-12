@@ -18,13 +18,24 @@ TaskFlow is a modern, full-stack SaaS productivity dashboard designed to help us
 - **React.js (Vite)**: Fast, modern UI library.
 - **Lucide React**: Clean and consistent iconography.
 - **Axios**: API communication with interceptors for JWT handling.
+- <img width="1598" height="1053" alt="image" src="https://github.com/user-attachments/assets/7b3bc6f1-d938-4089-a085-ed2ac8e2d2e3" />
+
 
 ### Backend
 - **Django & Django REST Framework**: Robust API development.
 - **JWT Authentication**: Secure stateless authentication.
 - **SQLite**: Default database (easily switchable to PostgreSQL).
 
+dashboard page:
 <img width="2240" height="1400" alt="image" src="https://github.com/user-attachments/assets/83f51249-41b0-490c-8b96-811882a71e8d" />
+
+login page:
+<img width="1609" height="905" alt="image" src="https://github.com/user-attachments/assets/5204c168-ed37-4111-8070-75c2ab511dad" />
+
+register page:
+<img width="1507" height="854" alt="image" src="https://github.com/user-attachments/assets/62c2eda8-c767-47aa-ae02-774b1a7d4db1" />
+
+
 
 
 ## Project Structure
